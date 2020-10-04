@@ -124,7 +124,7 @@ class MyApp extends StatelessWidget {
                   ),
                 ),
               ),
-              Card(
+              Card(  //NUEVA TARJETA CORRESPONDE A MI INSTAGRAM
                 margin: EdgeInsets.symmetric(
                   vertical: 10.0,
                   horizontal: 25.0,
